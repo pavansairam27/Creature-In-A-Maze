@@ -1,0 +1,27 @@
+Sun 31 Oct 2021 11:48:21 PM PDT
+*** compiling with clang++ to create an executable called myprogram
+clang version 7.0.1-8+deb10u2 (tags/RELEASE_701/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+*** running clang-tidy using options from .clang-tidy
+LLVM (http://llvm.org/):
+  LLVM version 7.0.1
+  
+  Optimized build.
+  Default target: x86_64-pc-linux-gnu
+  Host CPU: skylake-avx512
+*** running myprogram
+Path: EEENNNEEEEEESEESSSEEENNNNN
+xxxxxxxxxxxxxxxxxx*x
+x     x*******xxxx*x
+x xxxxx*xxxxx***xx*x
+x xxxxx*xxxxxxx*xx*x
+x x ****+++++xx*xx*x
+x xxxxxxxxxx+xx****x
+xxxxxxxxxxxxxxxxxxxx
+
+
+Done!
+*** cleaning up, deleting myprogram
+Sun 31 Oct 2021 11:48:44 PM PDT
